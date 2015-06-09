@@ -1,0 +1,6 @@
+Class(A)
+Attribute(a,A,notunique)
+Attribute(a,A,unique)
+Association(a,b,c,n,A,B,C)
+Generalization(A,B)
+Association(a,b,c,1,A,B,C)

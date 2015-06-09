@@ -1,0 +1,6 @@
+Table(A)
+Column(a,A,_)
+Column(a,A,pk)
+Column(a,BidCid,pfk)
+Column(Aid,B,pfk)
+Column(a,Bid,fk)
